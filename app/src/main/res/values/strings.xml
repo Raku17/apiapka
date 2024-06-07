@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Apka Pogodowa</string>
+    <string name="enter_city">Wpisz miasto</string>
+    <string name="get_weather">Pobierz pogodę</string>
+    <string name="temperature">Temperatura: %1$s °C</string>
+    <string name="feels_like">Odczuwalna: %1$s °C</string>
+    <string name="weather">Pogoda: %1$s</string>
+    <string name="description">Opis: %1$s</string>
+    <string name="error_fetching_data">Błąd podczas pobierania danych: %1$s</string>
+</resources>
